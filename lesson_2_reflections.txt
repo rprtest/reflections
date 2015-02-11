@@ -1,0 +1,6 @@
+On initializing a repository a .git folder containing details is added to the folder.
+This initializes the repository so that the files and its changes in it can be tracked.
+
+Staging area is in between the working directory and the repository. 
+It allows the files to be added before the final commit is made.
+
