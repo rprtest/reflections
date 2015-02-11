@@ -1,0 +1,17 @@
+It highlights the differences making it easier to spot the bug.
+Also as only changes are displayed, the number of lines that a user needs to check is reduced.
+
+It helps in keeping track of the changes. Also helps in reverting to older versions if required.
+
+Pros: User has the choice when to commit and unnecessary versions will not be saved
+Cons: If a user does not commit the file, changes may be lost
+
+This is because git is mainly built for saving versions of code. 
+It is required to commit multiple files at a time as related code changes may be distributed across many files
+
+git log gives all the changes/ commits with their messages.
+By using git diff version1 version2 where version1/2 are the commit id's once can find the cahnges between 2 commits.
+
+It helps because the code knows that he can revert to an older working version anytime and also find the new changes added easily.
+
+To learn version control of code.
