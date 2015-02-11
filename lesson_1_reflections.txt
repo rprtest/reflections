@@ -14,4 +14,4 @@ By using git diff version1 version2 where version1/2 are the commit id's once ca
 
 It helps because the code knows that he can revert to an older working version anytime and also find the new changes added easily.
 
-To learn version control of code.
+To learn version control of code. 
