@@ -10,5 +10,7 @@ By using git diff command one can see the files changed in the working directory
 Branches are useful in the case where some changes to the code are to be done while keeping the main master code intact.
 Branches are useful incase of new features or experimental features that may be merged into the master later.
 
+Diagrams help to visualize the master and it different branches.
+
 
 
