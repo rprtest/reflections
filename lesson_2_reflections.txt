@@ -4,3 +4,11 @@ This initializes the repository so that the files and its changes in it can be t
 Staging area is in between the working directory and the repository. 
 It allows the files to be added before the final commit is made.
 
+By adding 1 logical change from working directory to the staging area and then commiting it.
+By using git diff command one can see the files changed in the working directory, staging area and the repository.
+
+Branches are useful in the case where some changes to the code are to be done while keeping the main master code intact.
+Branches are useful incase of new features or experimental features that may be merged into the master later.
+
+
+
