@@ -10,3 +10,7 @@ Clones - Clones are used to make copies of repositories to/from github/local mac
 Clones are used so that multiple users may work on same repository from their local machines and be able to push the changes to a single common github repository.
 Branches -- allow users to create differnt code paths in their repository so that users cn work on different features that can be merged into the master later.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It helps to keep track of our local branch and see if we are ahead, behind or out of sync with the remote files even if we cannot acceess github.
+It also helps in merging the changes from out local branch to the local copy of the remote and then push it to github.
+
