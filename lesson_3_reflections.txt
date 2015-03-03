@@ -14,3 +14,10 @@ What is the benefit of having a copy of the last known state of the remote store
 It helps to keep track of our local branch and see if we are ahead, behind or out of sync with the remote files even if we cannot acceess github.
 It also helps in merging the changes from out local branch to the local copy of the remote and then push it to github.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Via emails or using common files to edit. It is easier to use than git/ github but will not be able to keep track of many changes or large number of files.
+
+
+
+
+
