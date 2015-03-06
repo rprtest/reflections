@@ -17,6 +17,12 @@ It also helps in merging the changes from out local branch to the local copy of 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Via emails or using common files to edit. It is easier to use than git/ github but will not be able to keep track of many changes or large number of files.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+By making changes in a seperate branch, users can safely make any updates without breaking the master. Also, by using pull requests, it can be 
+reviewed by other users before it can be committed to the master.
+
+
+
 
 
 
